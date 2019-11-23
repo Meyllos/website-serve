@@ -1,4 +1,6 @@
 # Node.js server API send email with contact form
+MeyllOS website Backend service
+
 ## Technologies
 - NodeJS/Express
 - MongoDB
@@ -18,7 +20,7 @@
 
 $ git clone https://github.com/Meyllos/website-serve.git
 
-## Author
+## Contributors
 <ul>
   <li> (BBasabana) (https://github.com/bbasabana)  </li>
- </ul>
+</ul>
