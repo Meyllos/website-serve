@@ -3,13 +3,16 @@ MeyllOS website Backend service
 
 ## Technologies
 - NodeJS/Express
-- MongoDB
 
-### package to install
+### NodeMailer ✉️
+<h3>We used nodemailer to send email contact</h3>
+- npm install nodemailer --save
+
+### packages installed
 - npm install
 - npm install express
-- npm install dotenv (config all connections)
-- npm install Mongoose (for MongoDB)
+- npm install morgan
+- npm install --save-dev nodemon
 
 
 ##### Config Mongoose
