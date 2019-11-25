@@ -45,7 +45,6 @@ router.post('/', (req, res, next) => {
             res.status(201).json({
                 message: 'Email has been sent',
                 response: info
-                
             })
           console.log(info);
         }
