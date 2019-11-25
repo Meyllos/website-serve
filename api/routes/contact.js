@@ -38,7 +38,7 @@ router.post('/', (req, res, next) => {
         if (err) {
           console.log(err)
           res.status(404).json({
-            message:'Erro, Email not send',
+            message:'Error, Email not send',
             error: err
         })
         } else {
