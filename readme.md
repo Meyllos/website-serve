@@ -14,16 +14,11 @@ MeyllOS website Backend service
 - npm install morgan
 - npm install --save-dev nodemon
 
-
-##### Config Mongoose
-```
-- If your password in plain-text is p@ssw0rd'9'!, you would need to encode your password as: p%40ssw0rd%279%27%21
-```
 ### Clone the project from github
 
 $ git clone https://github.com/Meyllos/website-serve.git
 
 ## Contributors
 <ul>
-  <li> (BBasabana) (https://github.com/bbasabana)  </li>
+  <li> BBasabana - https://github.com/bbasabana  </li>
 </ul>

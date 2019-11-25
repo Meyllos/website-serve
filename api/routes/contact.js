@@ -42,7 +42,7 @@ router.post('/', (req, res, next) => {
             error: err
         })
         } else {
-            res.status(200).json({
+            res.status(201).json({
                 message: 'Email has been sent',
                 response: info
                 
